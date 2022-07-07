@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**paula-raquel-tavares/paula-raquel-tavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sobre mim
+Desenvolvedora front-end utilizando <b>HTML</b>, <b>CSS</b>, <b>javascript</b>. 
 
-Here are some ideas to get you started:
+Estudando <b>React</b>. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou cursando Análise e Desenvolvimento de Sistemas pela FAM
+
+Disponível para trabalho (estágio ou desenvolvimento júnior)
+
+# Entre em contato
+<a href="www.linkedin.com/in/paula-raquel" title="acesse meu linkedin" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="100" />
+</a>
